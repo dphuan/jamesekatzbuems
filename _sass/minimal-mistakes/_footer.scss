@@ -48,7 +48,7 @@
 
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-size: $type-size-8;
 }
 
 .page__footer-follow {
@@ -58,13 +58,13 @@
     list-style-type: none;
   }
 
-  li {
+  li { /*this is the follow line */
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    text-transform: uppercase;
+    font-size: $type-size-7;
+    text-transform: capitalize;
   }
 
   li + li:before {
@@ -74,7 +74,6 @@
 
   a {
     padding-right: 10px;
-    font-weight: bold;
   }
 
   .social-icons {

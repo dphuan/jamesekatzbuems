@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Yihan Jia"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Site"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "yihanjia.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,12 +104,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Yihan Jia"
+  avatar           : "https://media-exp1.licdn.com/dms/image/D4E03AQEcs5VnAhKFng/profile-displayphoto-shrink_400_400/0/1642085207678?e=1675296000&v=beta&t=_4KDPYMY9DXsekO0kgru_KUwnufDISJm5sVRic6E8FY"
+  bio              : "Ph.D. Student \ \n
+                      Division of Emerging Media Studies \ \n
+                      Boston University \ \n
+                      Email: ydjia@bu.edu"
+  location         : "Boston, Massachusetts"
+  email            : #"ydjia@bu.edu"
   links:
+    - label: "CV"
+      icon: "far fa-fw fa-file-pdf"
+      url: "https://docs.google.com/document/d/1eQnd81T543GWI1xYVbGycJ4iaVqtyqK_/edit?usp=sharing&ouid=111898192405692502349&rtpof=true&sd=true"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=PAAuoCgAAAAJ&hl=en&oi=ao"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -119,19 +128,16 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
+    - label: "CV"
+      icon: "far fa-fw fa-file-pdf"
+      url: "https://docs.google.com/document/d/1eQnd81T543GWI1xYVbGycJ4iaVqtyqK_/edit?usp=sharing&ouid=111898192405692502349&rtpof=true&sd=true"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=PAAuoCgAAAAJ&hl=en&oi=ao"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
