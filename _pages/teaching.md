@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Teaching Experiences
-permalink: /Teaching/
+permalink: /teaching/
 ---
 
 <p style="line-height: 2;margin-bottom: 0;font-size=1em"><strong><em>Instructor of Record</em></strong></p>
