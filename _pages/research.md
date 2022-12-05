@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Research
-permalink: /Research/
+permalink: /research/
 ---
 <style>
     p {line-height: 1.5em;font-size=1em;font-family: serif"}
