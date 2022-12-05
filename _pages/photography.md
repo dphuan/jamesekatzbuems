@@ -1,7 +1,7 @@
 ---
 title: "Photography Portfolio"
 layout: single
-permalink: /Photography/
+permalink: /photography/
 class: "full"
 gallery:
   - url: Images/Beijing1.jpeg
