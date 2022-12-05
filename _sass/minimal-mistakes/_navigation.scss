@@ -151,7 +151,6 @@
       color: rgba($muted-text-color, 0.5);
       pointer-events: none;
       cursor: not-allowed;
-    }
   }
 }
 
@@ -231,7 +230,7 @@
 
     li {
       -webkit-box-flex: 0;
-      font-size: 0.8em; /*navigation bar font size modifed by danny*/
+      font-size: 0.9em; /*navigation bar font size modifed by danny*/
       -ms-flex: none;
       flex: none;
     }
