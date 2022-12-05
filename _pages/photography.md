@@ -84,8 +84,8 @@ gallery:
     image_path: Images/PurdueBellTower.jpeg
     alt: "PurdueBellTower"
     title: "Purdue Bell Tower"
-  - url: Images/Yale University.JPeG
-    image_path: Images/Yale University.JPeG
+  - url: Images/Yale University.jpeg
+    image_path: Images/Yale University.jpeg
     alt: "Yale University"
     title: "Yale University"
 ---
