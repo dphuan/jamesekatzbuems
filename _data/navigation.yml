@@ -1,9 +1,9 @@
   main:
   - title: "About"
-    url: /about/
+    url: /About/
   - title: "Research"
-    url: /research/
+    url: /Research/
   - title: "Teaching"
-    url: /teaching/
+    url: /Teaching/
   - title: "CV"
     url: https://docs.google.com/document/d/1eQnd81T543GWI1xYVbGycJ4iaVqtyqK_/edit?usp=sharing&ouid=111898192405692502349&rtpof=true&sd=true
