@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 <p style="line-height: 2;margin-bottom: 0;"><strong>Boston University</strong></p>
-<p style="line-height: 2;margin-bottom: 0;margin-left:1em"><strong><em>Teaching Assistant & Research Team Lead</em></strong></p>
+<p style="line-height: 2;margin-bottom: 0;margin-left:1em"><strong><em>Course Assistant & Research Team Lead</em></strong></p>
 
 - COM EM 777: <em>Masters Collaboratory Project (Fall 2022, Spring & Summer 2023)</em>
 
@@ -16,7 +16,7 @@ permalink: /teaching/
 <p style="line-height: 2;margin-bottom: 0;"><strong>Purdue University</strong></p>
 <p style="line-height: 2;margin-bottom: 0;margin-left:1em"><strong><em>Instructor of Record </em></strong></p>
 
-- COM 114: <em>Presentational Speaking (Spring, Summer, & Fall 2021)</em>
+- COM 114: <em>Presentational Speaking (Spring, Summer, & Fall 2021)</em> Evaluation: 4.78/5.00
 
 <p style="line-height: 2;margin-bottom: 0;margin-left:1em"><strong><em>Teaching Assistant</em></strong></p>
 
